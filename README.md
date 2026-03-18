@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Pedro!
 
-<!--
-**Pedro-Silva15/pedro-silva15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computação e programação, para mim, nunca foram sobre códigos — foram a maneira que encontrei de transformar curiosidade em soluções reais. Acredito que se as coisas podem ser melhores, mais rápidas e mais bonitas, elas devem ser. E quando tecnologia, criatividade e trabalho duro se encontram, é aí que tudo fica mais interessante.
 
-Here are some ideas to get you started:
+Deixar o mundo um pouco melhor do que o encontrei — parece ambicioso, mas começa com coisas simples. Um problema resolvido, uma pessoa ajudada, um projeto bem feito.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ➕ Mais sobre mim
+
+- 🎓 Graduando em Ciência da Computação
+- ⛰️ Apaixonado por desafios
+- 🛠️ Focado no ecossistema **.NET**
+- 🇺🇸 Aprendendo Inglês, um episódio de série por vez
+- 🇪🇸 Espanhol: poco a poco
+- ♠️ ♥️ ♣️ ♦️ 🃏 Fora do código: jogador recreativo de poker e conversador profissional.
+
+## 🚀 Tecnologias e Ferramentas
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
