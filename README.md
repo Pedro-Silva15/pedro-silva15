@@ -1,8 +1,8 @@
 # Olá, eu sou o Pedro!
 
-Computação e programação, para mim, nunca foram sobre códigos — foram a maneira que encontrei de transformar curiosidade em soluções reais. Acredito que se as coisas podem ser melhores, mais rápidas e mais bonitas, elas devem ser. E quando tecnologia, criatividade e trabalho duro se encontram, é aí que tudo fica mais interessante.
+Para mim, computação e programação nunca foram só sobre cálculos e códigos. Elas são uma maneira de transformar desafios e curiosidade em soluções reais. Acredito que se as coisas podem ser melhores, mais rápidas e mais bonitas, elas devem ser. E quando tecnologia, criatividade e trabalho duro se encontram, é aí que tudo fica mais interessante.
 
-Deixar o mundo um pouco melhor do que o encontrei — parece ambicioso, mas começa com coisas simples. Um problema resolvido, uma pessoa ajudada, um projeto bem feito.
+Deixar o mundo um pouco melhor do que o encontrei - parece ambicioso, mas começa com coisas simples. Um problema resolvido, uma pessoa ajudada, um projeto bem feito.
 
 ## ➕ Mais sobre mim
 
